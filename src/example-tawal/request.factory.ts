@@ -1,3 +1,4 @@
+// Copied from current implementation by Haroon and added comments
 class Requests {
     async getRequestsForDashboard() {
         const requestsList: Array<RequestsModel> = [];
